@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="zlatan" max_length="40" name="x_366618_s_indu_it_zlatan" type="collection">
+        <element choice="1" label="City" max_length="100" name="city" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="-- New choice --" sequence="0" value="-- New choice --"/>
+                <element inactive_on_update="false" label="madrid" sequence="0" value="madrid"/>
+                <element inactive_on_update="false" label="berlin" sequence="1" value="berlin"/>
+                <element inactive="true" inactive_on_update="true" label="copenhagen" sequence="2" value="copenhagen"/>
+                <element inactive_on_update="false" label="mumbai" sequence="2" value="mumbai"/>
+                <element inactive_on_update="false" label="london" sequence="3" value="london"/>
+                <element inactive_on_update="false" label="New York" sequence="4" value="new york"/>
+                <element inactive_on_update="false" label="tokyo" sequence="5" value="tokyo"/>
+                <element inactive_on_update="false" label="melbourne" sequence="6" value="melbourne"/>
+            </choice>
+        </element>
+        <element label="Observations" max_length="100" name="observations" type="journal"/>
+    </element>
+</database>

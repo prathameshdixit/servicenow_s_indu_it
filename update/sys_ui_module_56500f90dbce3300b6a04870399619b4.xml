@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="zlatan">1a500f90dbce3300b6a04870399619b2</application>
+        <filter/>
+        <name>zlatans</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_366618_s_indu_it.zlatan_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 09:31:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56500f90dbce3300b6a04870399619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>zlatans</sys_name>
+        <sys_package display_value="s indu it" source="x_366618_s_indu_it">b5dbf910db0e3300b6a0487039961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="s indu it">b5dbf910db0e3300b6a0487039961967</sys_scope>
+        <sys_update_name>sys_ui_module_56500f90dbce3300b6a04870399619b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 09:31:44</sys_updated_on>
+        <table>x_366618_s_indu_it_zlatan</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

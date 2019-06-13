@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="suggestion box" max_length="40" name="x_366618_s_indu_it_suggestion_box" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Complaint" max_length="40" name="complaint" type="string"/>
+        <element label="suggestion" max_length="100" name="suggestion" type="string"/>
+        <element choice="3" default="1" label="service rating" max_length="40" name="u_integer_1" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+            </choice>
+        </element>
+    </element>
+</database>

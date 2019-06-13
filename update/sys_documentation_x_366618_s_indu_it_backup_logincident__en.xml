@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="logincident backup" language="en" table="x_366618_s_indu_it_backup_logincident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>logincident backup</label>
+            <language>en</language>
+            <name>x_366618_s_indu_it_backup_logincident</name>
+            <plural>logincident backups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 04:59:50</sys_created_on>
+            <sys_id>ba451841db86b300b6a048703996190a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>logincident backup</sys_name>
+            <sys_package display_value="s indu it" source="x_366618_s_indu_it">b5dbf910db0e3300b6a0487039961967</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="s indu it">b5dbf910db0e3300b6a0487039961967</sys_scope>
+            <sys_update_name>sys_documentation_x_366618_s_indu_it_backup_logincident__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 05:00:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

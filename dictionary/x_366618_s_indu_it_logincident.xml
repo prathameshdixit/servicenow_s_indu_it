@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="logincident" max_length="40" name="x_366618_s_indu_it_logincident" sizeclass="4" type="collection">
+        <element label="affected user" max_length="32" name="affected_user" reference="alm_asset" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Happy" max_length="40" name="happy" type="string"/>
+        <element default="default" label="service" max_length="20" name="service" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="end date" max_length="40" name="u_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="start date" max_length="40" name="u_start_date" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_sicet_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:25:43</sys_created_on>
+        <sys_id>8ca15fa8db4a7300b6a0487039961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sicet catalog View</sys_name>
+        <sys_package display_value="s indu it" source="x_366618_s_indu_it">b5dbf910db0e3300b6a0487039961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="s indu it">b5dbf910db0e3300b6a0487039961967</sys_scope>
+        <sys_update_name>sys_ui_view_8ca15fa8db4a7300b6a0487039961957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:25:43</sys_updated_on>
+        <title>sicet catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="happy" label="Happy" language="en" table="x_366618_s_indu_it_logincident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>happy</element>
+            <help/>
+            <hint/>
+            <label>Happy</label>
+            <language>en</language>
+            <name>x_366618_s_indu_it_logincident</name>
+            <plural>Happys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:13:16</sys_created_on>
+            <sys_id>b71c7edcdb8e3300b6a0487039961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Happy</sys_name>
+            <sys_package display_value="s indu it" source="x_366618_s_indu_it">b5dbf910db0e3300b6a0487039961967</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="s indu it">b5dbf910db0e3300b6a0487039961967</sys_scope>
+            <sys_update_name>sys_documentation_x_366618_s_indu_it_logincident_happy_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:13:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

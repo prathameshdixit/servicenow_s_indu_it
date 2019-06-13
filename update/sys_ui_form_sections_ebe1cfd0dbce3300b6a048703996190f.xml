@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ebe1cfd0dbce3300b6a048703996190f" sys_domain="global" table="x_366618_s_indu_it_zlatan" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:38:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fe1cfd0dbce3300b6a0487039961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366618_s_indu_it_zlatan" name="x_366618_s_indu_it_zlatan" sys_domain="global" view="Default view">ebe1cfd0dbce3300b6a048703996190f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366618_s_indu_it_zlatan" sys_domain="global" view="Default view">c2708f90dbce3300b6a0487039961900</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:38:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:38:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7e1cfd0dbce3300b6a0487039961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366618_s_indu_it_zlatan" name="x_366618_s_indu_it_zlatan" sys_domain="global" view="Default view">ebe1cfd0dbce3300b6a048703996190f</sys_ui_form>
+            <sys_ui_section caption="user details" display_value="user details" name="x_366618_s_indu_it_zlatan" sys_domain="global" view="Default view">efe1cfd0dbce3300b6a048703996190e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:38:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366618_s_indu_it_zlatan</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:38:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebe1cfd0dbce3300b6a048703996190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366618_s_indu_it_zlatan</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="s indu it" source="x_366618_s_indu_it">b5dbf910db0e3300b6a0487039961967</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="s indu it">b5dbf910db0e3300b6a0487039961967</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ebe1cfd0dbce3300b6a048703996190f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:38:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
